@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind and Svelte**
 
-- 📫 How to reach me **hamid.ettajani@gmail.com**
+- 📫 Reach me at **hamid.ettajani@gmail.com**
 
 
 
