@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamid Ettajani</h1>
-<h3 align="center">A IT student from Norway</h3>
+<h3 align="center">A IT Student at Elvebakken VGS</h3>
 
 - 🔭 I’m currently working on **Bakka E-Sport Support**
 
