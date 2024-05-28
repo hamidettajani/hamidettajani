@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently learning **Tailwind and Svelte, and React**
+- 🌱 I’m currently learning **Tailwind, Svelte, and React**
 
 - 📫 Reach me at **hamid.ettajani@gmail.com**
 
