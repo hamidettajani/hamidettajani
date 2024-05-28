@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamid Ettajani</h1>
 <h3 align="center">A IT Student at Elvebakken VGS</h3>
 
-- 🔭 I’m currently working on **Bakka E-Sport Support**
+- 🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently learning **Tailwind and Svelte**
+- 🌱 I’m currently learning **Tailwind and Svelte, and React**
 
 - 📫 Reach me at **hamid.ettajani@gmail.com**
 
